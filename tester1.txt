@@ -1,4 +1,4 @@
-Ident,runway,airport,state,type,predicted_MTBO,projected_MTBO,last_MTBO,hours_since_last_outage,region,tier
+Ident,runway,city,state,type,predicted_MTBO,projected_MTBO,last_MTBO,hours_since_last_outage,region,tier
 AAD,28R,BOISE,ID,GS,10546,11431,8544,18556,NM,3
 AAD,28R,BOISE,ID,LOC,9054,10034,6054,18556,NM,3
 AAJ,16,BINGHAMTON,NY,GS,8387,9703,9666,3270,EA,3
