@@ -1,3 +1,4 @@
+Ident,runway,city,state,type,predicted_MTBO,projected_MTBO,last_MTBO,hours_since_last_outage,region,tier\n
 IDENT,TYPE,Count
 AAD,GS,1
 AAD,LOC,1
