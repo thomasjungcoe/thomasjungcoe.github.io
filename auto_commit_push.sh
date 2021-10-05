@@ -5,4 +5,4 @@ git status
 git add .
 git commit -m "auto commit" $1
 git config credential.helper store
-git push origin main
+git push -f origin main
