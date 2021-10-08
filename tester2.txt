@@ -1,4 +1,4 @@
-Ident,type,tier
+Ident,type,Count
 AAD,GS,1
 AAD,LOC,1
 AAJ,GS,1
