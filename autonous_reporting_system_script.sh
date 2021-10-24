@@ -1,7 +1,14 @@
 #!/bin/bash
 #<<"C:/Users/Thomas H-CTR Jung/Desktop/Study/Git_Tutorial/repo2/git_revisit">> = branch I am pushing to
 
-START C:\Users\"Thomas H-CTR Jung"\Desktop\CoS\"CoS Analyze"\"CoS Analyze"\Debug_v1\"CoS Analyze.exe"
+cd C:/Users/"Thomas H-CTR Jung"/Desktop/CoS/"CoS Analyze"/"CoS Analyze"/Debug_v1/
+
+./"CoS Analyze.exe"
+
+# expect "Press Enter to continue" { send "\r" }
+# interact
+
+cd C:/Users/"Thomas H-CTR Jung"/Desktop/front/"Git Repo"
 
 git status
 git add .
