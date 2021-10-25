@@ -1,12 +1,9 @@
 #!/bin/bash
 #<<"C:/Users/Thomas H-CTR Jung/Desktop/Study/Git_Tutorial/repo2/git_revisit">> = branch I am pushing to
 
-cd C:/Users/"Thomas H-CTR Jung"/Desktop/CoS/"CoS Analyze"/"CoS Analyze"/Debug_v1/
+C:\Users\"Thomas H-CTR Jung"\Desktop\CoS\"CoS Analyze"\"CoS Analyze"\Debug_v1\"CoS Analyze.exe"
 
-./"CoS Analyze.exe"
-
-# expect "Press Enter to continue" { send "\r" }
-# interact
+# press enter or what fuak~~!
 
 cd C:/Users/"Thomas H-CTR Jung"/Desktop/front/"Git Repo"
 
