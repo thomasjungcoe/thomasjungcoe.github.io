@@ -1,4 +1,4 @@
-Ident,type,Count, runway, airport, state, last_MTBO, predicted_MTBO, projected_MTBO, hours_since_last_outage, region, category
+Ident,type,Count,runway,airport,state,last_MTBO,predicted_MTBO,projected_MTBO,hours_since_last_outage,region,category
 AAD,GS,1,28R,BOISE,ID,10962,10657,11651,2073,NM,I
 AAD,LOC,1,28R,BOISE,ID,9470,5079,6901,2073,NM,I
 AAM,LOC,1,18,FARGO,ND,5555,5607,4638,5265,GL,I
