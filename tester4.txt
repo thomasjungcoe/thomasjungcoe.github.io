@@ -1,4 +1,4 @@
-Ident,type,Count,runway,airport,state,last_MTBO,predicted_MTBO,projected_MTBO,hours_since_last_outage,region,category
+Ident,type,Count,runway,airport,state,last_MTBO,predicted_MTBO,projected_MTBO,hours_since_last_outage,region,category,service_area
 AAD,GS,1,28R,BOISE,ID,10962,10662,11655,2097,NM,I,WSA
 AAD,LOC,1,28R,BOISE,ID,9470,5083,6902,2097,NM,I,WSA
 AAO,GS,2,18,WICHITA,KS,5366,4786,6003,2959,CE,I,CSA
