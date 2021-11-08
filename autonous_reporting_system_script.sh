@@ -1,12 +1,10 @@
 #!/bin/bash
 #<<"C:/Users/Thomas H-CTR Jung/Desktop/Study/Git_Tutorial/repo2/git_revisit">> = branch I am pushing to
 
-Desktop/"CoS Analyze.exe"
+C:/Users/"Thomas H-CTR Jung"/Desktop/CoS/"CoS Analyze"/"CoS Analyze"/Debug_v1/"CoS Analyze.exe"
 
-cd C:/Users/"Thomas H-CTR Jung"/Desktop/front/"Git Repo"
+cd C:/Users/"Thomas H-CTR Jung"/Desktop/Study/Git_Tutorial/repo2/git_revisit
 
-git status
-git add .
-git commit -m "auto commit" $1
-git config credential.helper store
-git push -f origin main
+./auto_commit_push.sh
+
+
